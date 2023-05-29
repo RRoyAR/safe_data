@@ -1,0 +1,18 @@
+{
+    "application_title": "Your Safe",
+    "encrypt_data": "Data Encryption",
+    "encryption_name": "Display name",
+    "encryption_text": "Text to encrypt",
+    "encryption_password": "Password",
+    "error": "Error",
+    "encryption_errorText": "Encrypting failed.",
+    "password_to_long": "Password you chose to protect should not be longer than 32.",
+    "encrypt": "Encrypt",
+    "ok": "Ok",
+    "encryption_result_title": "Encrypted Data",
+    "decryption_error": "Invalid password",
+    "are_you_sure": "Are you sure ?",
+    "deleteting": "Deleteting",
+    "create": "Create",
+    "qr_create": "Password To QR Code"
+}

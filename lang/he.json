@@ -1,0 +1,18 @@
+{
+    "application_title": "הכספת שלך",
+    "encrypt_data": "הצפנת מידע",
+    "encryption_name": "שם תצוגה",
+    "encryption_text": "טקסט להצפנה",
+    "encryption_password": "סיסמה",
+    "error": "שגיאה",
+    "encryption_errorText": "הצפנה נכשלה.",
+    "password_to_long": "וודא שהסיסמה אינה עולה על 32 תווים",
+    "encrypt": "הצפן",
+    "ok": "פענח",
+    "encryption_result_title": "המידע המוצפן",
+    "decryption_error": "סיסמה שגויה",
+    "are_you_sure": "האם את/ה בטוח ?",
+    "deleteting": "מוחק",
+    "create": "צור",
+    "qr_create": "QR Code"
+}
